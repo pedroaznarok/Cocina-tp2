@@ -1,0 +1,7 @@
+com\example\demo\DemoApplication.class
+com\example\demo\entities\PlatoIngrediente.class
+com\example\demo\controllers\PlatoController.class
+com\example\demo\entities\Ingrediente.class
+com\example\demo\entities\IngredienteCantidad.class
+com\example\demo\entities\Plato.class
+com\example\demo\ServletInitializer.class
